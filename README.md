@@ -1,3 +1,3 @@
 # PhatTrienUngDungDesktop
 
-[PhatTrienUngDungDesktop](#phattrienungdungdesktop)
+Bai tap mon Phat trien ung dung Desktop
